@@ -167,7 +167,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Testimonials Carousel */}
+ 
       <section className="max-w-4xl mx-auto px-4 mt-16 bg-gray-100 rounded-lg p-8 shadow-lg">
         <h2 className="text-3xl font-bold mb-6 text-center">Testimonials</h2>
         <div className="relative">
