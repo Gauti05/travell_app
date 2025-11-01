@@ -28,7 +28,6 @@ export default function Contact() {
           </div>
         </div>
 
-        {/* Google Map Embed */}
         <div className="rounded-lg overflow-hidden shadow-lg">
           <iframe 
             title="Halifax Map"
